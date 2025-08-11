@@ -31,11 +31,11 @@
 
 ## Guías de Prácticos
 
-* [Guía 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**]()
+* [Guía 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**](TODO)
 
 ## Videos de las clases
 
-* [Clase 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**]()
+* [Clase 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**](TODO)
 
 ## Trabajos Prácticos
 

@@ -18,12 +18,12 @@
 * [Teóricos, Lunes y Jueves de 19 a 20 hs](https://meet.google.com/mzi-bvbq-fch)
 * Prácticos, Lunes y Jueves de 17 a 18 hs:
   * [Sala de Juan](https://meet.google.com/mxn-kaid-oxe)
-  * [Sala de Tristán](TODO)
-  * [Sala de Diego](TODO)
+  * [Sala de Tristán]()
+  * [Sala de Diego]()
   
 ## Links útiles
 
-* [Link al aula virtual](TODO)
+* [Link al aula virtual]()
   
 ## Anuncios
 
@@ -31,11 +31,12 @@
 
 ## Guías de Prácticos
 
-* [Guía 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**](TODO)
+* [Guía 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**](https://colab.research.google.com/drive/1F82Nj-WdqczwErTRvow9Gf_jtB_tMj_X?usp=drive_link)
+* [Guía 2, 2025-08-11, Familiarizándose con **Numpy**](https://colab.research.google.com/drive/1KM49M87H_w7JJFeyGH5cbmfXoKhhZ5O1?usp=drive_link)
 
 ## Videos de las clases
 
-* [Clase 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**](TODO)
+* [Clase 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**]()
 
 ## Trabajos Prácticos
 

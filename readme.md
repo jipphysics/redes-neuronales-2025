@@ -44,6 +44,8 @@
 * [Trabajo Práctico 2, ...]()
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041)
 
+**Importante**: Recuerde entregar cada TP antes de la correspondiente fecha pautada.
+
 ## Trabajo final
 
 * [...](TODO)

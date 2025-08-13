@@ -49,3 +49,10 @@
 * [...](TODO)
   * Recuerde entregarlo 4 días hábiles antes del día del examen.
   * Luego, el día del examen, deberá defenderlo en una exposición oral de 10 min.
+  
+## Materiales
+
+* [https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf)
+* [https://mrce.in/ebooks/Machine%20Learning%20for%20Absolute%20Beginners.pdf](https://mrce.in/ebooks/Machine%20Learning%20for%20Absolute%20Beginners.pdf)
+* [https://arxiv.org/abs/2106.11342v5 - Dive into machine learning, Zhang A. et al. 2023](https://arxiv.org/abs/2106.11342v5)
+* [https://pythonbooks.org/free-books/](https://pythonbooks.org/free-books/)

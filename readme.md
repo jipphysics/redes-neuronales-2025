@@ -49,7 +49,7 @@
 ## Trabajo final
 
 * [...](TODO)
-  * Recuerde entregarlo 4 días hábiles antes del día del examen.
+  * **Importante**: recuerde entregarlo 4 días hábiles antes del día del examen.
   * Luego, el día del examen, deberá defenderlo en una exposición oral de 10 min.
   
 ## Materiales

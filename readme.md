@@ -24,6 +24,7 @@
 ## Links útiles
 
 * [Link al aula virtual]()
+* [Canal de Zulip](https://famaf.zulipchat.com/#narrow/channel/522295-redes-neuronales-2025-estudiantes/topic/channel.20events)
   
 ## Anuncios
 

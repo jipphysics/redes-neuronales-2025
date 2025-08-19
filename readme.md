@@ -56,6 +56,9 @@
   
 ## Materiales
 
+* [Ayuda TP1](https://github.com/jipphysics/redes-neuronales-2025/tutoriales/Ayudas_TP_2_TMO_v1.pdf)
+* [Ayuda TP2](https://github.com/jipphysics/redes-neuronales-2025/tutoriales/Ayudas_TP_2_TMO_v2.pdf)
+
 * [https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf)
 * [https://mrce.in/ebooks/Machine%20Learning%20for%20Absolute%20Beginners.pdf](https://mrce.in/ebooks/Machine%20Learning%20for%20Absolute%20Beginners.pdf)
 * [https://arxiv.org/abs/2106.11342v5 - Dive into machine learning, Zhang A. et al. 2023](https://arxiv.org/abs/2106.11342v5)

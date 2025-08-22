@@ -40,6 +40,7 @@
 
 * [Clase 1, 2025-08-11, guía 1](https://drive.google.com/file/d/1igUGpX3Kys-H3NIXZPWOsdHA6l3qE0sw/view?usp=sharing)
 * [Clase 2, 2025-08-14, guía 2](https://drive.google.com/file/d/19GUpJVBQw6epE5SxNbPTGRQkoPosAFuU/view?usp=drive_link)
+* [Clase 3, 2025-08-21, guía 3](https://drive.google.com/file/d/19GUpJVBQw6epE5SxNbPTGRQkoPosAFuU/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

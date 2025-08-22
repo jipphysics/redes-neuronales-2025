@@ -28,7 +28,7 @@
   
 ## Anuncios
 
-* **2025-08-11**: Inicio de clases. Excepcionalmente, sólo clase de prácticos.
+* **2025-08-11**: Inicio de clases.
 
 ## Guías de Prácticos
 

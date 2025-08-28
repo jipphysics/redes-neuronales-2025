@@ -43,7 +43,7 @@
 * [Clase 2, 2025-08-14, guía 2](https://drive.google.com/file/d/19GUpJVBQw6epE5SxNbPTGRQkoPosAFuU/view?usp=drive_link)
 * [Clase 3, 2025-08-21, repasos de guías 1 y 2, y presentación de guía 3](https://drive.google.com/file/d/1iVadAckaOTHxm0YqVVyuElxzzifdSph7/view?usp=drive_link)
 * [Clase 4, 2025-08-25, continuando con guia 3](https://drive.google.com/file/d/1JwX-RZLcmQIr_Lb-Iig8pbdOZoQxRFKI/view?usp=drive_link)
-* [Clase 5, 2025-08-28, ...]()
+* [Clase 5, 2025-08-28, finalizando guía 3 y comenzando guía 4](https://drive.google.com/file/d/1WsCbRqWPXCn-hEYTbcYNtZrEQZlw0BYd/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

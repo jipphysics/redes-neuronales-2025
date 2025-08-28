@@ -63,8 +63,9 @@
 
 ### Ayudas de TPs
 
-* [Ayuda Guía 1](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_TP_1_TMO_v2.pdf)
-* [Ayuda Guìa 2](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_TP_2_TMO_v2.pdf)
+* [Ayuda Guía 1](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_1_TMO_v2.pdf)
+* [Ayuda Guìa 2](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_2_TMO_v2.pdf)
+* [Ayuda Guìa 3](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_3_TMO_v5.pdf)
 
 ### Libros y similares
 

@@ -35,6 +35,7 @@
 * [Guía 1, 2025-08-11, Familiarizándose con **Google Colab** y **Python**](https://colab.research.google.com/drive/1F82Nj-WdqczwErTRvow9Gf_jtB_tMj_X?usp=drive_link)
 * [Guía 2, 2025-08-14, Familiarizándose con **Numpy**](https://colab.research.google.com/drive/1KM49M87H_w7JJFeyGH5cbmfXoKhhZ5O1?usp=drive_link)
 * [Guía 3, 2025-08-21, Algebra lineal con **SciPy**](https://colab.research.google.com/drive/1h_tyC0O1xfNExudhRgaBj2E5ZNwjHAKB?usp=drive_link)
+* [Guía 3, 2025-08-28, Integración numérica de ODEs](https://colab.research.google.com/drive/13jatOos-0V3I8EIif4F0Jyc0YKItkbJc?usp=drive_link)
 
 ## Videos de las clases
 
@@ -42,6 +43,7 @@
 * [Clase 2, 2025-08-14, guía 2](https://drive.google.com/file/d/19GUpJVBQw6epE5SxNbPTGRQkoPosAFuU/view?usp=drive_link)
 * [Clase 3, 2025-08-21, repasos de guías 1 y 2, y presentación de guía 3](https://drive.google.com/file/d/1iVadAckaOTHxm0YqVVyuElxzzifdSph7/view?usp=drive_link)
 * [Clase 4, 2025-08-25, continuando con guia 3](https://drive.google.com/file/d/1JwX-RZLcmQIr_Lb-Iig8pbdOZoQxRFKI/view?usp=drive_link)
+* [Clase 5, 2025-08-28, ...]()
 
 ## Trabajos Prácticos
 

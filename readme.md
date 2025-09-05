@@ -45,6 +45,7 @@
 * [Clase 4, 2025-08-25, continuando con guia 3](https://drive.google.com/file/d/1JwX-RZLcmQIr_Lb-Iig8pbdOZoQxRFKI/view?usp=drive_link)
 * [Clase 5, 2025-08-28, finalizando guía 3 y comenzando guía 4](https://drive.google.com/file/d/1WsCbRqWPXCn-hEYTbcYNtZrEQZlw0BYd/view?usp=drive_link)
 * [Clase 6, 2025-09-01, guía 4](https://drive.google.com/file/d/1h5bv0p5LXiVzAj2mk1XB3Di-zVANUOIB/view?usp=drive_link)
+* [Clase 7, 2025-09-04, guìa 4](https://drive.google.com/file/d/1r4xc7u-PhyXE6Cxpdzl0SC-TS4gFCpU6/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

@@ -36,6 +36,7 @@
 * [Guía 2, 2025-08-14, Familiarizándose con **Numpy**](https://colab.research.google.com/drive/1KM49M87H_w7JJFeyGH5cbmfXoKhhZ5O1?usp=drive_link)
 * [Guía 3, 2025-08-21, Algebra lineal con **SciPy**](https://colab.research.google.com/drive/1h_tyC0O1xfNExudhRgaBj2E5ZNwjHAKB?usp=drive_link)
 * [Guía 4, 2025-08-28, Integración numérica de ODEs](https://colab.research.google.com/drive/13jatOos-0V3I8EIif4F0Jyc0YKItkbJc?usp=drive_link)
+* [Guía 5, 2025-09-15, Modelo de Izhikevich](https://colab.research.google.com/drive/1aFKV-lFrIK5f1OCmzRWcKsiA-8BM9p50?usp=drive_link)
 
 ## Videos de las clases
 

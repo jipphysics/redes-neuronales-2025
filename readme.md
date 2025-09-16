@@ -37,7 +37,7 @@
 * [Guía 3, 2025-08-21, Algebra lineal con **SciPy**](https://colab.research.google.com/drive/1h_tyC0O1xfNExudhRgaBj2E5ZNwjHAKB?usp=drive_link)
 * [Guía 4, 2025-08-28, Integración numérica de ODEs](https://colab.research.google.com/drive/13jatOos-0V3I8EIif4F0Jyc0YKItkbJc?usp=drive_link)
 * [Guía 5, 2025-09-15, Modelo Integrate and Fire](https://colab.research.google.com/drive/1a3x6z0mjGKBRgfipwIdORcnNbIG3eFa-?usp=drive_link)
-* [Guía 6, 2025-09-15, Modelo de Izhikevich](https://colab.research.google.com/drive/1aFKV-lFrIK5f1OCmzRWcKsiA-8BM9p50?usp=drive_link)
+* [Guía 6, 2025-09-15, Modelo de Izhikevich](https://colab.research.google.com/drive/193WxTshRiADhNt7OjdCcjlMNyf5TfS8y?usp=drive_link)
 
 ## Videos de las clases
 
@@ -48,7 +48,8 @@
 * [Clase 5, 2025-08-28, finalizando guía 3 y comenzando guía 4](https://drive.google.com/file/d/1WsCbRqWPXCn-hEYTbcYNtZrEQZlw0BYd/view?usp=drive_link)
 * [Clase 6, 2025-09-01, guía 4](https://drive.google.com/file/d/1h5bv0p5LXiVzAj2mk1XB3Di-zVANUOIB/view?usp=drive_link)
 * [Clase 7, 2025-09-04, guìa 4](https://drive.google.com/file/d/1r4xc7u-PhyXE6Cxpdzl0SC-TS4gFCpU6/view?usp=drive_link)
-* [Clase 8, 2025-09-15, guías 5 y 6, y TP1]()
+* [Clase 8 - Parte 1, 2025-09-15, guía 5](https://drive.google.com/file/d/1vdL2XplPKiUWLw_gkT-22ZX9OtZu2-uk/view?usp=drive_link)
+* [Clase 8 - Parte 2, 2025-09-15, guía 6 y TP1](https://drive.google.com/file/d/1N0a0jVW1O1uF6PV1dbkZJAGtHEnzQDib/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

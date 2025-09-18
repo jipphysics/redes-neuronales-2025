@@ -53,7 +53,7 @@
 
 ## Trabajos Prácticos
 
-* [Trabajo Práctico 1, ...]()
+* [Trabajo Práctico 1, El modelo de Izhikevich](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tp1-2025.pdf)
 * [Trabajo Práctico 2, ...]()
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041)
 

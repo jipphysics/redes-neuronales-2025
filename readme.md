@@ -50,7 +50,7 @@
 * [Clase 7, 2025-09-04, guìa 4](https://drive.google.com/file/d/1r4xc7u-PhyXE6Cxpdzl0SC-TS4gFCpU6/view?usp=drive_link)
 * [Clase 8 - Parte 1, 2025-09-15, guía 5](https://drive.google.com/file/d/1vdL2XplPKiUWLw_gkT-22ZX9OtZu2-uk/view?usp=drive_link)
 * [Clase 9 - Parte 2, 2025-09-15, guía 6 y TP1](https://drive.google.com/file/d/1N0a0jVW1O1uF6PV1dbkZJAGtHEnzQDib/view?usp=drive_link)
-* [Clase 10, 2025-09-18, repaso de guías 5, 6 y TP1]()
+* [Clase 10, 2025-09-18, repaso de guías 5, 6 y TP1](https://drive.google.com/file/d/1BomRFber9BjdmuKUMEHaZzA9Dgf1s4CE/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

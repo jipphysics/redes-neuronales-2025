@@ -57,6 +57,7 @@
 * [Trabajo Práctico 1, El modelo de Izhikevich (fecha de entrega 2025-10-06)](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tp1-2025.pdf)
 * [Trabajo Práctico 2, ...]()
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041)
+* [Plantilla LaTeX en formato .zip](https://github.com/jipphysics/redes-neuronales-2025/blob/main/plantilla-tp.zip)
 
 **Importante**: Recuerde entregar cada TP antes de la correspondiente fecha pautada.
 

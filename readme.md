@@ -82,4 +82,4 @@
 * [https://arxiv.org/abs/2106.11342v5 - Dive into machine learning, Zhang A. et al. 2023](https://arxiv.org/abs/2106.11342v5)
 * [https://pythonbooks.org/free-books/](https://pythonbooks.org/free-books/)
 * [https://chatgpt.com/share/689caec1-6e28-8003-8a39-aec51562636b](https://chatgpt.com/share/689caec1-6e28-8003-8a39-aec51562636b)
-* [http://www.malinc.se/m/Lorenz.php](aplicación online de la ecuación de Lorenz)
+* [http://www.malinc.se/m/Lorenz.php ](aplicación online de la ecuación de Lorenz)

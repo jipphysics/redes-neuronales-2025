@@ -38,6 +38,7 @@
 * [Guía 4, 2025-08-28, Integración numérica de ODEs](https://colab.research.google.com/drive/13jatOos-0V3I8EIif4F0Jyc0YKItkbJc?usp=drive_link)
 * [Guía 5, 2025-09-15, Modelo Integrate and Fire](https://colab.research.google.com/drive/1a3x6z0mjGKBRgfipwIdORcnNbIG3eFa-?usp=drive_link)
 * [Guía 6, 2025-09-15, Modelo de Izhikevich](https://colab.research.google.com/drive/193WxTshRiADhNt7OjdCcjlMNyf5TfS8y?usp=drive_link)
+* [Guía 7, 2025-09-22, Caos I: la ecuación de Lorenz](https://colab.research.google.com/drive/1K3oB8Vy0Il4HWRw0RnCgi3gaTLOhzLBD?usp=drive_link)
 
 ## Videos de las clases
 
@@ -51,6 +52,7 @@
 * [Clase 8 - Parte 1, 2025-09-15, guía 5](https://drive.google.com/file/d/1vdL2XplPKiUWLw_gkT-22ZX9OtZu2-uk/view?usp=drive_link)
 * [Clase 9 - Parte 2, 2025-09-15, guía 6 y TP1](https://drive.google.com/file/d/1N0a0jVW1O1uF6PV1dbkZJAGtHEnzQDib/view?usp=drive_link)
 * [Clase 10, 2025-09-18, repaso de guías 5, 6 y TP1](https://drive.google.com/file/d/1BomRFber9BjdmuKUMEHaZzA9Dgf1s4CE/view?usp=drive_link)
+* [Clase 11, 2025-09-22, repaso de guías, 5 y 6, TP1, y presentación guía 7](https://drive.google.com/file/d/1p1qowwzgASxyl5WixpxUJTxyh5X1DiId/view?usp=drive_link)
 
 ## Trabajos Prácticos
 
@@ -82,4 +84,4 @@
 * [https://arxiv.org/abs/2106.11342v5 - Dive into machine learning, Zhang A. et al. 2023](https://arxiv.org/abs/2106.11342v5)
 * [https://pythonbooks.org/free-books/](https://pythonbooks.org/free-books/)
 * [https://chatgpt.com/share/689caec1-6e28-8003-8a39-aec51562636b](https://chatgpt.com/share/689caec1-6e28-8003-8a39-aec51562636b)
-* [Aplicación online de la ecuación de Lorenz](http://www.malinc.se/m/Lorenz.php)
+* [A  plicación online de la ecuación de Lorenz](http://www.malinc.se/m/Lorenz.php)

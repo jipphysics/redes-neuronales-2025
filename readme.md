@@ -77,6 +77,7 @@
 * [Ayuda Guía 1](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_1_TMO_v2.pdf)
 * [Ayuda Guía 2](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_2_TMO_v2.pdf)
 * [Ayuda Guía 3](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_3_TMO_v5.pdf)
+* [Ayuda Guía 6, implementación usando el método Euler por Tristán](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/)
 
 ### Libros y similares
 

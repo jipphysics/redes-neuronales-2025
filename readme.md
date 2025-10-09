@@ -57,6 +57,7 @@
 * [Clase 11, 2025-09-22, repaso de guías, 5 y 6, TP1, y presentación guía 7](https://drive.google.com/file/d/1p1qowwzgASxyl5WixpxUJTxyh5X1DiId/view?usp=drive_link)
 * [Clase 12, 2025-09-25, consultas](https://drive.google.com/file/d/11QeYHrDPU-ETpbVmsDaN9Ph9-gy3Jska/view?usp=drive_link)
 * [Clase 13, 2025-10-06, presentación de guía 8](https://drive.google.com/file/d/17-OHKSIcrIpSlVSicdsFlTqb_oOuGUFw/view?usp=drive_link)
+* [Clase 14, 2025-10-09, presentación de guía 9]()
 
 ## Trabajos Prácticos
 

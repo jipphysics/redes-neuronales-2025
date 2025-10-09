@@ -40,6 +40,7 @@
 * [Guía 6, 2025-09-15, Modelo de Izhikevich](https://colab.research.google.com/drive/193WxTshRiADhNt7OjdCcjlMNyf5TfS8y?usp=drive_link)
 * [Guía 7, 2025-09-22, Caos I: la ecuación de Lorenz](https://colab.research.google.com/drive/1K3oB8Vy0Il4HWRw0RnCgi3gaTLOhzLBD?usp=drive_link)
 * [Guía 8, 2025-10-06, El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1QoRgHjWS0JVmEAO309asKLRus9uQk2D2?usp=drive_link)
+* [Guía 9, 2025-10-09, Ajuste por cuadrados mínimos y descenso por el gradiente](https://drive.google.com/file/d/1DzftjnndFx9sYGuZFdEPY-vriyfryA5P/view?usp=drive_link)
 
 ## Videos de las clases
 

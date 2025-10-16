@@ -41,6 +41,7 @@
 * [Guía 7, 2025-09-22, Caos I: la ecuación de Lorenz](https://colab.research.google.com/drive/1K3oB8Vy0Il4HWRw0RnCgi3gaTLOhzLBD?usp=drive_link)
 * [Guía 8, 2025-10-06, El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1QoRgHjWS0JVmEAO309asKLRus9uQk2D2?usp=drive_link)
 * [Guía 9, 2025-10-09, Ajuste por cuadrados mínimos y descenso por el gradiente](https://drive.google.com/file/d/1DzftjnndFx9sYGuZFdEPY-vriyfryA5P/view?usp=drive_link)
+* [Guía 10, 2025-10-16, Ajuste por cuadrados mínimos con PyTorch](https://colab.research.google.com/drive/1oqcYNzpCuHAgKe76p0JAy9Re6hk2SgCu?usp=drive_link)
 
 ## Videos de las clases
 
@@ -58,6 +59,7 @@
 * [Clase 12, 2025-09-25, consultas](https://drive.google.com/file/d/11QeYHrDPU-ETpbVmsDaN9Ph9-gy3Jska/view?usp=drive_link)
 * [Clase 13, 2025-10-06, presentación de guía 8](https://drive.google.com/file/d/17-OHKSIcrIpSlVSicdsFlTqb_oOuGUFw/view?usp=drive_link)
 * [Clase 14, 2025-10-09, presentación de guía 9](https://drive.google.com/file/d/1uKPxIhdX4DwkJDJL7KJpCBTS72Pg0fDy/view?usp=drive_link)
+* [Clase 15, 2025-10-16, presentación de guía 10]()
 
 ## Trabajos Prácticos
 

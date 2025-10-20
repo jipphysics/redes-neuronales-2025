@@ -42,6 +42,7 @@
 * [Guía 8, 2025-10-06, El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1QoRgHjWS0JVmEAO309asKLRus9uQk2D2?usp=drive_link)
 * [Guía 9, 2025-10-09, Ajuste por cuadrados mínimos y descenso por el gradiente](https://drive.google.com/file/d/1DzftjnndFx9sYGuZFdEPY-vriyfryA5P/view?usp=drive_link)
 * [Guía 10, 2025-10-16, Ajuste por cuadrados mínimos con PyTorch](https://colab.research.google.com/drive/1oqcYNzpCuHAgKe76p0JAy9Re6hk2SgCu?usp=drive_link)
+* [Guía 11, 2025-10-20, Aprendiendo Fashion-MNIST con PyTorch](https://colab.research.google.com/drive/1eWDp9GA7qVOkG1bieH-9TJl6nUzqMSEk?usp=drive_link)
 
 ## Videos de las clases
 
@@ -51,7 +52,7 @@
 * [Clase 4, 2025-08-25, continuando con guia 3](https://drive.google.com/file/d/1JwX-RZLcmQIr_Lb-Iig8pbdOZoQxRFKI/view?usp=drive_link)
 * [Clase 5, 2025-08-28, finalizando guía 3 y comenzando guía 4](https://drive.google.com/file/d/1WsCbRqWPXCn-hEYTbcYNtZrEQZlw0BYd/view?usp=drive_link)
 * [Clase 6, 2025-09-01, guía 4](https://drive.google.com/file/d/1h5bv0p5LXiVzAj2mk1XB3Di-zVANUOIB/view?usp=drive_link)
-* [Clase 7, 2025-09-04, guìa 4](https://drive.google.com/file/d/1r4xc7u-PhyXE6Cxpdzl0SC-TS4gFCpU6/view?usp=drive_link)
+* [Clase 7, 2025-09-04, guía 4](https://drive.google.com/file/d/1r4xc7u-PhyXE6Cxpdzl0SC-TS4gFCpU6/view?usp=drive_link)
 * [Clase 8 - Parte 1, 2025-09-15, guía 5](https://drive.google.com/file/d/1vdL2XplPKiUWLw_gkT-22ZX9OtZu2-uk/view?usp=drive_link)
 * [Clase 9 - Parte 2, 2025-09-15, guía 6 y TP1](https://drive.google.com/file/d/1N0a0jVW1O1uF6PV1dbkZJAGtHEnzQDib/view?usp=drive_link)
 * [Clase 10, 2025-09-18, repaso de guías 5, 6 y TP1](https://drive.google.com/file/d/1BomRFber9BjdmuKUMEHaZzA9Dgf1s4CE/view?usp=drive_link)
@@ -60,6 +61,7 @@
 * [Clase 13, 2025-10-06, presentación de guía 8](https://drive.google.com/file/d/17-OHKSIcrIpSlVSicdsFlTqb_oOuGUFw/view?usp=drive_link)
 * [Clase 14, 2025-10-09, presentación de guía 9](https://drive.google.com/file/d/1uKPxIhdX4DwkJDJL7KJpCBTS72Pg0fDy/view?usp=drive_link)
 * [Clase 15, 2025-10-16, presentación de guía 10](https://drive.google.com/file/d/1YVZ02GoEWNp3fFHA1qaMuj5ZmWSxYFYa/view?usp=drive_link)
+* [Clase 16, 2025-10-20, presentación de guía 11]()
 
 ## Trabajos Prácticos
 

@@ -61,7 +61,7 @@
 * [Clase 13, 2025-10-06, presentación de guía 8](https://drive.google.com/file/d/17-OHKSIcrIpSlVSicdsFlTqb_oOuGUFw/view?usp=drive_link)
 * [Clase 14, 2025-10-09, presentación de guía 9](https://drive.google.com/file/d/1uKPxIhdX4DwkJDJL7KJpCBTS72Pg0fDy/view?usp=drive_link)
 * [Clase 15, 2025-10-16, presentación de guía 10](https://drive.google.com/file/d/1YVZ02GoEWNp3fFHA1qaMuj5ZmWSxYFYa/view?usp=drive_link)
-* [Clase 16, 2025-10-20, presentación de guía 11]()
+* [Clase 16, 2025-10-20, presentación de guía 11](https://drive.google.com/file/d/1v2A4hHdOpI9cozVfvDTw3LvqORZR6fdf/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

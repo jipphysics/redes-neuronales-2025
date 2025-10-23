@@ -66,7 +66,7 @@
 ## Trabajos Prácticos
 
 * [Trabajo Práctico 1, El modelo de Izhikevich (fecha de entrega 2025-10-06)](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tp1-2025.pdf)
-* [Trabajo Práctico 2, ...]()
+* [Trabajo Práctico 2, Clasificando FashionMNIST con red feedforward implementada en PyTorch (fecha 2025-11-13)](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tp2-2025.pdf)
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041)
 * [Plantilla LaTeX en formato .zip](https://github.com/jipphysics/redes-neuronales-2025/blob/main/plantilla-tp.zip)
 

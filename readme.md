@@ -63,6 +63,7 @@
 * [Clase 15, 2025-10-16, presentación de guía 10](https://drive.google.com/file/d/1YVZ02GoEWNp3fFHA1qaMuj5ZmWSxYFYa/view?usp=drive_link)
 * [Clase 16, 2025-10-20, presentación de guía 11](https://drive.google.com/file/d/1v2A4hHdOpI9cozVfvDTw3LvqORZR6fdf/view?usp=drive_link)
 * [Clase 17, 2025-10-23, presentación de TP2 y repaso de guía 11](https://drive.google.com/file/d/1V6MXE3wvRRD21g-BcTXFsm8aBVKdXLv5/view?usp=drive_link)
+* [Clase 18, 2025-10-27, continuando con guía 11 y TP2](https://drive.google.com/file/d/1cDY-cWsp_qAeUI6-UtUFsz0-3xvFSST6/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

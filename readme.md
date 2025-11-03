@@ -66,6 +66,7 @@
 * [Clase 17, 2025-10-23, presentación de TP2 y repaso de guía 11](https://drive.google.com/file/d/1V6MXE3wvRRD21g-BcTXFsm8aBVKdXLv5/view?usp=drive_link)
 * [Clase 18, 2025-10-27, continuando con guía 11 y TP2](https://drive.google.com/file/d/1cDY-cWsp_qAeUI6-UtUFsz0-3xvFSST6/view?usp=drive_link)
 * [Clase 19, 2025-10-30, continuando con guia 11 y TP2](https://drive.google.com/file/d/1N46JWdDzlQSOVBA3JhvPzmYf-w50hwkG/view?usp=sharing)
+* [Clase 20, 2025-11-03, finalizando guía 11 y TP2, comenzando con guía 12](https://drive.google.com/file/d/14YSXYIqErDknMmu3utWI2Hxl_rMynh2a/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

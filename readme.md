@@ -43,6 +43,7 @@
 * [Guía 9, 2025-10-09, Ajuste por cuadrados mínimos y descenso por el gradiente](https://drive.google.com/file/d/1DzftjnndFx9sYGuZFdEPY-vriyfryA5P/view?usp=drive_link)
 * [Guía 10, 2025-10-16, Ajuste por cuadrados mínimos con PyTorch](https://colab.research.google.com/drive/1oqcYNzpCuHAgKe76p0JAy9Re6hk2SgCu?usp=drive_link)
 * [Guía 11, 2025-10-20, Aprendiendo Fashion-MNIST con PyTorch](https://colab.research.google.com/drive/1eWDp9GA7qVOkG1bieH-9TJl6nUzqMSEk?usp=drive_link)
+* [Guía 12, 2025-11-03, Autoencoder convolucional con FashionMNIST](https://colab.research.google.com/drive/1teDm7o6oB7fX2DI-Z0UBlcPZYwwwvv-g?usp=drive_link)
 
 ## Videos de las clases
 

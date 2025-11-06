@@ -94,6 +94,8 @@
 * [Tutorial sobre ajuste por cuadrados mínimos y el método del descenso por el gradiente](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Tutorial_regresion_TMO_corto_v16.pdf)
 * [Ayuda Guía 11](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_11_Clasif_Fashion-MNIST_TMO_v8.pdf)
 * [Tutorial de Redes Feedforward con PyTorch](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Redes_FF_Pytorch_TMO_v3.pdf)
+* [Understanding 2D Convolutions in PyTorch](https://medium.com/@ml_dl_explained/understanding-2d-convolutions-in-pytorch-b35841149f5f)
+* [PyTorch: `Conv2d`](https://docs.pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)
 
 ### Libros y similares
 

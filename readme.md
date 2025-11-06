@@ -96,6 +96,7 @@
 * [Tutorial de Redes Feedforward con PyTorch](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Redes_FF_Pytorch_TMO_v3.pdf)
 * [Understanding 2D Convolutions in PyTorch](https://medium.com/@ml_dl_explained/understanding-2d-convolutions-in-pytorch-b35841149f5f)
 * [PyTorch: `Conv2d`](https://docs.pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)
+* [Deep Learning with PyTorch - Chapter 5: Introduction to Convolutional Neural Networks](https://www.tomasbeuzen.com/deep-learning-with-pytorch/chapters/chapter5_cnns-pt1.html)
 
 ### Libros y similares
 

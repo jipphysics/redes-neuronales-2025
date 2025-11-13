@@ -29,6 +29,7 @@
 ## Anuncios
 
 * **2025-08-11**: Inicio de clases.
+* **2025-11-13**: [Link a fechas de exámenes finales](https://drive.google.com/file/d/1Z3GaWmEt9xSxc2P1EgREPsEmBoPGnNbH/view)
 
 ## Guías de Prácticos
 

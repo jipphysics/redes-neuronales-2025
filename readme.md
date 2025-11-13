@@ -70,6 +70,7 @@
 * [Clase 20, 2025-11-03, finalizando guía 11 y TP2, comenzando con guía 12](https://drive.google.com/file/d/14YSXYIqErDknMmu3utWI2Hxl_rMynh2a/view?usp=drive_link)
 * [Clase 21, 2025-11-06, continuando con guía 12](https://drive.google.com/file/d/1qQq0uQPmouyB7cY-Pl6TCGxphyvF9_eC/view?usp=drive_link)
 * [Clase 22, 2025-11-10, continuando con guía 12](https://drive.google.com/file/d/1AyNIVN2J2t6oSLzhTggI6oZl-JUs5Hjo/view?usp=drive_link)
+* [Clase 23, 2025-11-13, clase consulta](https://drive.google.com/file/d/12C5_cy4XNBJ8MM1WJRRd0iw11s8SAGGJ/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

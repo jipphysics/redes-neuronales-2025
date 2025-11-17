@@ -76,7 +76,6 @@
 
 * [Trabajo Práctico 1, El modelo de Izhikevich (fecha de entrega 2025-10-06)](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tp1-2025.pdf)
 * [Trabajo Práctico 2, Clasificando FashionMNIST con red feedforward implementada en PyTorch (fecha 2025-11-13)](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tp2-2025.pdf)
-* [Trabajo Final, Autoencoder y clasificador convolucional profundo sobre Fashion-MNIST y con pre-entrenamiento (fecha 2025-11-17)](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tf-2025.pdf)
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041)
 * [Plantilla LaTeX en formato .zip](https://github.com/jipphysics/redes-neuronales-2025/blob/main/plantilla-tp.zip)
 
@@ -84,7 +83,7 @@
 
 ## Trabajo final
 
-* [...](TODO)
+* * [Trabajo Final, Autoencoder y clasificador convolucional profundo sobre Fashion-MNIST y con pre-entrenamiento (fecha 2025-11-17)](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tf-2025.pdf)
   * **Importante**: recuerde entregarlo 4 días hábiles antes del día del examen.
   * Luego, el día del examen, deberá defenderlo en una exposición oral de 10 min.
   

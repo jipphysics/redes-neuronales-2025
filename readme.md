@@ -98,6 +98,7 @@
 * [Ayuda Guía 6, implementación usando el método Euler por Tristán](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/modelo_Izhikevich_Euler_method_TMO_v2.ipynb)
 * [Tutorial sobre ajuste por cuadrados mínimos y el método del descenso por el gradiente](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Tutorial_regresion_TMO_corto_v16.pdf)
 * [Ayuda Guía 11](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_11_Clasif_Fashion-MNIST_TMO_v8.pdf)
+* [Ayuda Guía 12](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Ayudas_GUIA_12_Autoencoder_Fashion-MNIST_TMO_v6.pdf)
 * [Tutorial de Redes Feedforward con PyTorch](https://github.com/jipphysics/redes-neuronales-2025/blob/main/tutoriales/Redes_FF_Pytorch_TMO_v3.pdf)
 * [PyTorch: `Conv2d`](https://docs.pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)
 * [PyTorch: `ConvTranspose2d`](https://docs.pytorch.org/docs/stable/generated/torch.nn.ConvTranspose2d.html)

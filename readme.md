@@ -73,6 +73,7 @@
 * [Clase 23, 2025-11-13, clase consulta](https://drive.google.com/file/d/12C5_cy4XNBJ8MM1WJRRd0iw11s8SAGGJ/view?usp=drive_link)
 * [Clase 24, 2025-11-17, presentación del Trabajo Final](https://drive.google.com/file/d/1vu4q8RF1OhbAyNXt-uOPiC9nO-SsV7mc/view?usp=drive_link)
 * [Clase 25, 2025-11-20, ultima clase, continuando con la presentación del Trabajo Final](https://drive.google.com/file/d/1co9_Slqkg5vj0wPunoz4PlDho8kxTeev/view?usp=drive_link)
+* [Clase 26, 2025-11-28, clase de consulta](https://drive.google.com/file/d/1QbeqAFq1vKZuDq_V0_hDbohlQ2n_U8Qs/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

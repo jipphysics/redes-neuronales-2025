@@ -122,3 +122,4 @@
 * [https://chatgpt.com/share/689caec1-6e28-8003-8a39-aec51562636b](https://chatgpt.com/share/689caec1-6e28-8003-8a39-aec51562636b)
 * [Aplicación online de la ecuación de Lorenz](http://www.malinc.se/m/Lorenz.php)
 * [PyTorch](https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html)
+* [Double descent phenomenon](https://www.youtube.com/watch?v=Kih-VPHL3gA)

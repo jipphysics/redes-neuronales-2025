@@ -75,6 +75,7 @@
 * [Clase 25, 2025-11-20, ultima clase, continuando con la presentación del Trabajo Final](https://drive.google.com/file/d/1co9_Slqkg5vj0wPunoz4PlDho8kxTeev/view?usp=drive_link)
 * [Clase 26, 2025-11-28, 1º clase de consulta](https://drive.google.com/file/d/1QbeqAFq1vKZuDq_V0_hDbohlQ2n_U8Qs/view?usp=drive_link)
 * [Clase 27, 2025-12-01, 2º clase de consulta](https://drive.google.com/file/d/165dem_YU52aGo40mGiBdezL5iCSKYOH9/view?usp=drive_link)
+* [Clase 28, 2025-12-12, 3º clase de consulta](https://drive.google.com/file/d/1quVAeQy7HCUcQX-HJTmpkH4DpIlsLUyH/view?usp=drive_link)
 
 ## Trabajos Prácticos
 

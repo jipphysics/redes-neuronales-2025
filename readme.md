@@ -30,9 +30,9 @@
 
 * **2025-08-11**: Inicio de clases.
 * **2025-11-13**: [Link a fechas de exámenes finales (ver primera fila **optativas y especialidades**)](https://drive.google.com/file/d/1Z3GaWmEt9xSxc2P1EgREPsEmBoPGnNbH/view)
-    * YYYY-MM-DD
-    * 2025-12-01
-    * 2025-12-19
+    * **YYYY-MM-DD**
+    * ~~2025-12-01~~
+    * ~~2025-12-19~~
     * 2026-02-13
     * 2026-02-27
     * 2026-07-03

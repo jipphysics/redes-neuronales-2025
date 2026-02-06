@@ -88,6 +88,7 @@
 * [Clase 27, 2025-12-01, 2º clase de consulta](https://drive.google.com/file/d/165dem_YU52aGo40mGiBdezL5iCSKYOH9/view?usp=drive_link)
 * [Clase 28, 2025-12-12, 3º clase de consulta](https://drive.google.com/file/d/1quVAeQy7HCUcQX-HJTmpkH4DpIlsLUyH/view?usp=drive_link)
 * [Clase 29, 2025-02-02, 4º clase de consulta](https://drive.google.com/file/d/1ZyDLUTJ-4xBsyEF1q7inyFJcDRX6r-ic/view?usp=drive_link)
+* [Clase 30, 2025-02-06, 5º clase de consulta](https://drive.google.com/file/d/1i8s2ImI5oV_L3LPBRTVx9JlbRUMVESyE/view?usp=drive_link)
 
 ## Trabajos Prácticos
 
